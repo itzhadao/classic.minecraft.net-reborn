@@ -1,0 +1,4 @@
+HOW TO PLAY?
+
+Step 1: click on start-server.bat
+Step 2: play at http://localhost:8080
